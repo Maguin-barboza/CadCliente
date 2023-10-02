@@ -1,0 +1,12 @@
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Domain\bin\Debug\net7.0\CadClient.Domain.deps.json
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Domain\bin\Debug\net7.0\CadClient.Domain.dll
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Domain\bin\Debug\net7.0\CadClient.Domain.pdb
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Domain\obj\Debug\net7.0\CadClient.Domain.csproj.AssemblyReference.cache
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Domain\obj\Debug\net7.0\CadClient.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Domain\obj\Debug\net7.0\CadClient.Domain.AssemblyInfoInputs.cache
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Domain\obj\Debug\net7.0\CadClient.Domain.AssemblyInfo.cs
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Domain\obj\Debug\net7.0\CadClient.Domain.csproj.CoreCompileInputs.cache
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Domain\obj\Debug\net7.0\CadClient.Domain.dll
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Domain\obj\Debug\net7.0\refint\CadClient.Domain.dll
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Domain\obj\Debug\net7.0\CadClient.Domain.pdb
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Domain\obj\Debug\net7.0\ref\CadClient.Domain.dll

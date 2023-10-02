@@ -1,0 +1,15 @@
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Infra\bin\Debug\net7.0\CadClient.Infra.deps.json
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Infra\bin\Debug\net7.0\CadClient.Infra.dll
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Infra\bin\Debug\net7.0\CadClient.Infra.pdb
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Infra\bin\Debug\net7.0\CadClient.Domain.dll
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Infra\bin\Debug\net7.0\CadClient.Domain.pdb
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Infra\obj\Debug\net7.0\CadClient.Infra.csproj.AssemblyReference.cache
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Infra\obj\Debug\net7.0\CadClient.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Infra\obj\Debug\net7.0\CadClient.Infra.AssemblyInfoInputs.cache
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Infra\obj\Debug\net7.0\CadClient.Infra.AssemblyInfo.cs
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Infra\obj\Debug\net7.0\CadClient.Infra.csproj.CoreCompileInputs.cache
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Infra\obj\Debug\net7.0\CadClient.Infra.csproj.CopyComplete
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Infra\obj\Debug\net7.0\CadClient.Infra.dll
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Infra\obj\Debug\net7.0\refint\CadClient.Infra.dll
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Infra\obj\Debug\net7.0\CadClient.Infra.pdb
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Infra\obj\Debug\net7.0\ref\CadClient.Infra.dll

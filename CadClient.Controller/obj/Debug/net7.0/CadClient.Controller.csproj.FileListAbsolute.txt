@@ -1,0 +1,15 @@
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Controller\bin\Debug\net7.0\CadClient.Controller.deps.json
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Controller\bin\Debug\net7.0\CadClient.Controller.dll
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Controller\bin\Debug\net7.0\CadClient.Controller.pdb
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Controller\bin\Debug\net7.0\CadClient.Domain.dll
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Controller\bin\Debug\net7.0\CadClient.Domain.pdb
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Controller\obj\Debug\net7.0\CadClient.Controller.csproj.AssemblyReference.cache
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Controller\obj\Debug\net7.0\CadClient.Controller.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Controller\obj\Debug\net7.0\CadClient.Controller.AssemblyInfoInputs.cache
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Controller\obj\Debug\net7.0\CadClient.Controller.AssemblyInfo.cs
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Controller\obj\Debug\net7.0\CadClient.Controller.csproj.CoreCompileInputs.cache
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Controller\obj\Debug\net7.0\CadClient.Controller.csproj.CopyComplete
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Controller\obj\Debug\net7.0\CadClient.Controller.dll
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Controller\obj\Debug\net7.0\refint\CadClient.Controller.dll
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Controller\obj\Debug\net7.0\CadClient.Controller.pdb
+D:\Users\Administrador\Documents\ProjetosDev\CadClient\CadClient.Controller\obj\Debug\net7.0\ref\CadClient.Controller.dll
